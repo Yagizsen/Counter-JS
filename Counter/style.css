@@ -1,0 +1,29 @@
+
+
+#numCounter{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    font-family: sans-serif;
+    
+}
+
+#btnContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    color: black;
+    background-color: #f2ff00;
+    font-size: 1.2em;
+    cursor: pointer;
+border-radius: 25px;
+transition: all linear 0.75s;
+box-shadow: 5px 5px 5px 0 black ;
+}
+
+.buttons:hover{
+    background-color: #fbffabc8;
+}
+
